@@ -1,0 +1,4 @@
+insert into Candidate_Details (roll_No,first_Name,last_Name,qualification,address,phone_No,age) values (1,'Sourav','Chakladar','B.tech','Tuscany',89612525,24);
+insert into Candidate_Details (roll_No,first_Name,last_Name,qualification,address,phone_No,age) values (2,'Senjuti','Roy','B.tech','Santorini',89814880,34);
+insert into Candidate_Details (roll_No,first_Name,last_Name,qualification,address,phone_No,age) values (3,'Dinesh','Sikder','B.Com','Maldives',12358555,40);
+insert into Candidate_Details (roll_No,first_Name,last_Name,qualification,address,phone_No,age) values (4,'Sourav','Biswas','B.Pharma','Norway',12454874,45);
